@@ -723,7 +723,7 @@ function raizCubicaB() {
 // hexadecimal a decimal
 
 function hexadecimalDecimal() {
-	let numeroEnHexadecimal = [prompt('dime el numero en binario')];
+	let numeroEnHexadecimal = [prompt('dime el numero en hexadecimal')];
 
 	numeroEnHexadecimal = parseInt(numeroEnHexadecimal, 16);
 
